@@ -1,5 +1,5 @@
 <h1>Purge Cart</h1>
-<p align="center"><img src="https://bootstrap.arcadier.com/github/plug-in-icons/moq.png"></p>
+:bomb:
 <p align="center">With this plug-in, marketplaces users can clear the contents of their content with one click.</p>
 
 ### Pre-Installation requirements
