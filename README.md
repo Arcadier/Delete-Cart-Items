@@ -2,7 +2,7 @@
 
 With this plug-in, marketplaces users can clear the contents of their content with one click. If used as is, this plug-in only works on Arcadier's front end.
 
-But the main function of this plug-in is found in the `user` folder, where the [Delete Item in Cart] API is called on loop on a user's cart.
+But the main function of this plug-in is found in the `user` folder, where the [Delete Item in Cart](https://apiv2.arcadier.com/?version=latest#f7fc984c-b492-4622-85ce-5646d1dc756d) API is called on loop on a user's cart.
 
 ### Pre-Installation requirements
 
