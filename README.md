@@ -10,8 +10,7 @@ But the main function of this plug-in is found in the `user` folder, where the [
   - If you do not have one, and wish to have one, sign up as a Plug-In Developer [here](http://form.arcadier.com/arcadier/plugin-developer)
 - A [sandbox marketplace](https://api.arcadier.com/sandbox-marketplace). :video_game:
 - Knowledge of how to upload source code to the dashboard => [Knowledge](https://api.arcadier.com/building-first-plug-in).
-- Unicorns :rainbow:
-- Love for coding :heart: (if you want to customise it)
+
 
 ### Installation:
 
